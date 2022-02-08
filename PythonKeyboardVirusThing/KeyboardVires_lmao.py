@@ -1,5 +1,5 @@
 # Andrew Maney & Patrick Grundy, 2022
-# Development Version: 1.0 Alpha
+# Development Version: 1.0
 
 # License: MIT License.
 # For license information, visit https://opensource.org/licenses/MIT
